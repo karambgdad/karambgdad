@@ -30,10 +30,12 @@ Client source repositories and operational data remain private. These summaries 
 | Project | What to look at |
 | --- | --- |
 | [Handwritten digits](https://github.com/karambgdad/handwritten_digits) | Python/NumPy neural network with explicit forward and backward propagation, gradient checks and documented experiments. |
-| [Vacation Rentals](https://github.com/karambgdad/SoftwareEngProject) | Academic Java web application with servlets, FreeMarker templates, JDBC and a separate [test project](https://github.com/karambgdad/SoftEngProjectTesting). |
-| [Employee CRUD](https://github.com/karambgdad/AngularCRUD) | Angular learning application with employee records and Firebase integration. |
-| [Recipe manager](https://github.com/karambgdad/ngProject) | Angular learning project covering recipes, shopping lists, forms, routing and Firebase-backed persistence. |
-| [NestJS car estimates](https://github.com/karambgdad/NestJs) | Backend learning project with users, authentication, reports, TypeORM and SQLite. |
+| [web-dev-journey](https://github.com/karambgdad/web-dev-journey) | All my web projects from 2023–2024 in one repository, with full commit history, a timeline and READMEs showing how each project builds on the last. |
+| [Vacation Rentals](https://github.com/karambgdad/web-dev-journey/tree/main/java/vacation-rentals) | Academic Java web application with servlets, FreeMarker templates, JDBC and a separate [test project](https://github.com/karambgdad/web-dev-journey/tree/main/java/vacation-rentals/tests). |
+| [Employee CRUD](https://github.com/karambgdad/web-dev-journey/tree/main/angular/01-crud) | Angular learning application with employee records and Firebase integration. |
+| [Recipe manager](https://github.com/karambgdad/web-dev-journey/tree/main/angular/03-recipe-shopping-app) | Angular learning project covering recipes, shopping lists, forms, routing and Firebase-backed persistence. |
+| [NestJS car estimates](https://github.com/karambgdad/web-dev-journey/tree/main/nestjs/02-car-estimates) | Backend learning project with users, authentication, reports, TypeORM and SQLite. |
+| [Lieferspatz](https://github.com/karambgdad/web-dev-journey/tree/main/fullstack/01-lieferspatz) | Full-stack food delivery platform: Angular frontend, NestJS API with SQLite, JWT authentication and Swagger. |
 
 ## Technical background
 
@@ -42,6 +44,6 @@ Client source repositories and operational data remain private. These summaries 
 - **Testing and delivery:** Cypress, Git, Docker, GitHub Actions and code reviews.
 - **AI study:** Python, NumPy, MATLAB, PyTorch and autograd concepts. My passed CBEM lab involved implementing an MNIST network in MATLAB; the public Python repository is a separate learning project.
 
-Earlier exercises are retained in [NgBasics](https://github.com/karambgdad/NgBasics) and [nestjs-Fundamentals](https://github.com/karambgdad/nestjs-Fundamentals). They document my learning progression and are separate from client work.
+Earlier exercises are retained in [Angular basics](https://github.com/karambgdad/web-dev-journey/tree/main/angular/02-basics) and [NestJS fundamentals](https://github.com/karambgdad/web-dev-journey/tree/main/nestjs/01-fundamentals). They document my learning progression and are separate from client work.
 
 Based in Duisburg, Germany. German and English: C1 self-assessment; Arabic: native.
