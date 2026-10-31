@@ -46,4 +46,4 @@ Client source repositories and operational data remain private. These summaries 
 
 Earlier exercises are retained in [Angular basics](https://github.com/karambgdad/web-dev-journey/tree/main/angular/02-basics) and [NestJS fundamentals](https://github.com/karambgdad/web-dev-journey/tree/main/nestjs/01-fundamentals). They document my learning progression and are separate from client work.
 
-Based in Duisburg, Germany. German and English: C1 self-assessment; Arabic: native.
+Based in Duisburg, Germany. German and English: C1; Arabic: native.
