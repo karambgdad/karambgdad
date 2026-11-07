@@ -4,7 +4,7 @@ I build web applications with Angular, TypeScript, NestJS and PostgreSQL, and ex
 
 I study **Computer Engineering (B.Sc., Software Engineering specialization)** at the **University of Duisburg-Essen**. My expected graduation is **June 2027**.
 
-**Looking for a 12-week, full-time Pflichtpraktikum in software development — available immediately.**
+**Looking for a 13-week, full-time Pflichtpraktikum in software development — available immediately.**
 
 ## Client work
 
